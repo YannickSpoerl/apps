@@ -1,0 +1,95 @@
+{
+    "apps": [
+        {
+            "name": "MensaVue",
+            "tags": [
+                "Vue.js",
+                "Vuetify",
+                "Vuex",
+                "OpenMensa"
+            ],
+            "description": {
+                "de": "Vergleiche detaillierte Essenspläne der Universitätsmensen.",
+                "en": "Browse university canteens and their meals for the current days."
+            },
+            "languages": [
+                "en"
+            ],
+            "urls": {
+                "code": "https://github.com/YannickSpoerl/mensavue",
+                "demo": "https://mensa.yannickspoerl.de/",
+                "blog": "https://www.yannickspoerl.de/applications/2020/02/13/mensavue.html"
+            },
+            "features": {
+                "desktop": true,
+                "mobile": false,
+                "offline": false,
+                "auth": false,
+                "db": false,
+                "realtime": false
+            }
+        },
+
+        {
+            "name": "Laundry",
+            "tags": [
+                "Vue.js",
+                "Vuetify",
+                "Vuex",
+                "Vuexfire",
+                "VueI18n",
+                "Firebase"
+            ],
+            "description": {
+                "de": "Web-app, um gemeinsames Waschen in einer WG zu planen.",
+                "en": "Plan laundry together in your shared flat with this web-app."
+            },
+            "languages": [
+                "de",
+                "en"
+            ],
+            "urls": {
+                "code": "https://github.com/YannickSpoerl/laundry",
+                "demo": "https://laundry.yannickspoerl.de/",
+                "blog": null
+            },
+            "features": {
+                "desktop": true,
+                "mobile": true,
+                "offline": true,
+                "auth": true,
+                "db": true,
+                "realtime": true
+            }
+        },
+
+        {
+            "name": "Wann ist Alex?",
+            "tags": [
+                "Vue.js",
+                "Vuetify",
+                "Firebase"
+            ],
+            "description": {
+                "de": "Wette, wann deine Arbeitskollegen im Büro auftauchen!",
+                "en": "Bet on the time your coworkers will show up to work!"
+            },
+            "languages": [
+                "de"
+            ],
+            "urls": {
+                "code": "https://github.com/YannickSpoerl/wannistalex",
+                "demo": "https://wannistalex.yannickspoerl.de/",
+                "blog": "https://www.yannickspoerl.de/applications/2019/11/15/wannistalex.html"
+            },
+            "features": {
+                "desktop": true,
+                "mobile": false,
+                "offline": false,
+                "auth": false,
+                "db": true,
+                "realtime": true
+            }
+        }
+    ]
+}
