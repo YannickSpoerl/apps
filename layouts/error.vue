@@ -51,6 +51,8 @@ export default {
         padding 0.6rem 1.2rem
 
 .button.nav-link
+  color #fff
+  text-decoration-line none
   &:hover, &.router-link-active
     color #fff
 
