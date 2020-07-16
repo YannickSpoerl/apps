@@ -1,3 +1,4 @@
+import messages from './assets/internationalization/index.js'
 
 export default {
   /*
@@ -35,6 +36,7 @@ export default {
   ** https://nuxtjs.org/guide/plugins
   */
   plugins: [
+    '~plugins/loadContent.js'
   ],
   /*
   ** Auto import components
@@ -52,7 +54,29 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
+    'nuxt-i18n'
   ],
+  i18n: {
+    locales: [
+      {
+        code: 'de',
+        iso: 'de'
+      },
+      {
+        code: 'en',
+        iso: 'en'
+      }
+    ],
+    defaultLocale: 'de',
+    vueI18n: {
+      fallbackLocale: 'en',
+      messages
+    },
+    detectBrowserLanguage: {
+      useCookie: true,
+      alwaysRedirect: true
+    }
+  },
   /*
   ** Build configuration
   ** See https://nuxtjs.org/api/configuration-build/

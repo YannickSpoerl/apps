@@ -1,0 +1,53 @@
+{
+    "title": "Yannick Spoerl",
+    "navbar": [
+      {
+        "text": "about",
+        "link": "#me"
+      },
+      {
+        "text": "socials",
+        "link": "#socials"
+      },
+      {
+        "text": "blog",
+        "link": "#blog"
+      },
+      {
+        "text": "resume",
+        "link": "#resume"
+      }
+    ],
+    "contact": [
+        {
+          "type": "github",
+          "link": "https://github.com/YannickSpoerl"
+        },
+        {
+          "type": "twitter",
+          "link": "https://twitter.com/yannickspoerl"
+        },
+        {
+          "type": "instagram",
+          "link": "https://www.instagram.com/yannickspoerl"
+        },
+        {
+          "type": "mail",
+          "link": "mailto:yannick@yannickspoerl.de"
+        }
+    ],
+    "copyright": [
+      {
+        "text": "copyright",
+        "link": "/"
+      },
+      {
+        "text": "notice",
+        "link": "/privacy"
+      },
+      {
+        "text": "license",
+        "link": "/license"
+      }
+    ]
+}
