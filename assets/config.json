@@ -1,21 +1,13 @@
 {
-    "title": "Yannick Spoerl",
+    "title": "Apps - Yannick Spoerl",
     "navbar": [
       {
-        "text": "about",
-        "link": "#me"
-      },
-      {
-        "text": "socials",
-        "link": "#socials"
+        "text": "home",
+        "link": "https://www.yannickspoerl.de"
       },
       {
         "text": "blog",
-        "link": "#blog"
-      },
-      {
-        "text": "resume",
-        "link": "#resume"
+        "link": "https://blog.yannickspoerl.de"
       }
     ],
     "contact": [

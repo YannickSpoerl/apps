@@ -3,8 +3,8 @@
     <header id="header">
       <div class="header-wrapper">
         <div class="title">
-          <NavLink link="#hello" class="home-link">
-            <img src="@yannickspoerl/corporate-design-yannickspoerl/logo.png" width="7.4%" alt="Logo">
+          <NavLink link="/" class="home-link">
+            <img src="@yannickspoerl/corporate-design-yannickspoerl/logo.png" width="6%" alt="Logo">
               &#160;&#160;
             {{ $site.title }}
           </NavLink>

@@ -1,12 +1,10 @@
 <template>
-  <div class="content-wrapper">
-    <div class="content__default" style="text-align: center">
-      <h1>{{ $t('error.title') }}</h1>
-      <br>
-      <a class="button nav-link" :href="localePath('/')">
-        {{ $t('error.button') }}
-      </a>
-    </div>
+  <div style="text-align: center">
+    <h1>{{ $t('error.title') }}</h1>
+    <br>
+    <a class="button nav-link" :href="localePath('/')">
+      {{ $t('error.button') }}
+    </a>
   </div>
 </template>
 
