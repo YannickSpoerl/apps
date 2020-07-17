@@ -1,0 +1,40 @@
+{
+    "name": "Laundry",
+    "published": "15.6.2020",
+    "tags": [
+        "JavaScript",
+        "Vue",
+        "Vuetify",
+        "Vuex",
+        "Vuei18n",
+        "Firebase"
+    ],
+    "description": {
+        "de": "Plane deine WG-Wäsche auf die smarte Art 👪",
+        "en": "Plan laundry together in your shared flat 👪"
+    },
+    "languages": [
+        "de",
+        "en"
+    ],
+    "urls": {
+        "de": {
+            "code": "https://github.com/YannickSpoerl/laundry",
+            "demo": "https://laundry.yannickspoerl.de/",
+            "blog": "https://blog.yannickspoerl.de/2020/06/15/laundry/"
+        },
+        "en": {
+            "code": "https://github.com/YannickSpoerl/laundry",
+            "demo": "https://laundry.yannickspoerl.de/",
+            "blog": "https://blog.yannickspoerl.de/en/2020/06/15/laundry/"
+        }
+    },
+    "features": {
+        "desktop": true,
+        "mobile": true,
+        "offline": true,
+        "auth": true,
+        "db": true,
+        "realtime": true
+    }
+}

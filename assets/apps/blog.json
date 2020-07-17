@@ -1,0 +1,37 @@
+{
+    "name": "Blog",
+    "published": "5.7.2020",
+    "tags": [
+        "JavaScript",
+        "Vue",
+        "Vuepress"
+    ],
+    "description": {
+        "de": "Mein persönlicher Web-Blog 📔",
+        "en": "My personal Web-Blog 📔"
+    },
+    "languages": [
+        "de",
+        "en"
+    ],
+    "urls": {
+        "de": {
+            "code": "https://github.com/YannickSpoerl/blog",
+            "demo": "https://blog.yannickspoerl.de",
+            "blog": "https://blog.yannickspoerl.de/2020/07/06/blog/"
+        },
+        "en": {
+            "code": "https://github.com/YannickSpoerl/blog",
+            "demo": "https://blog.yannickspoerl.de/en/",
+            "blog": "https://blog.yannickspoerl.de/en/2020/07/06/blog/"
+        }
+    },
+    "features": {
+        "desktop": true,
+        "mobile": true,
+        "offline": false,
+        "auth": false,
+        "db": false,
+        "realtime": false
+    }
+}

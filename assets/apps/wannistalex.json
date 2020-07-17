@@ -1,0 +1,37 @@
+{
+    "name": "Wann ist Alex?",
+    "published": "12.11.2019",
+    "tags": [
+        "JavaScript",
+        "Vue",
+        "Vuetify",
+        "Firebase"
+    ],
+    "description": {
+        "de": "Wette, wann deine Arbeitskollegen im Büro auftauchen 🎰",
+        "en": "Bet on the time your coworkers will show up to work 🎰"
+    },
+    "languages": [
+        "de"
+    ],
+    "urls": {
+        "de": {
+            "code": "https://github.com/YannickSpoerl/wannistalex",
+            "demo": "https://wannistalex.yannickspoerl.de/",
+            "blog": "https://blog.yannickspoerl.de/2019/11/15/wannistalex/"
+        },
+        "en": {
+            "code": "https://github.com/YannickSpoerl/wannistalex",
+            "demo": "https://wannistalex.yannickspoerl.de/",
+            "blog": "https://blog.yannickspoerl.de/en/2019/11/15/wannistalex/"
+        }
+    },
+    "features": {
+        "desktop": true,
+        "mobile": false,
+        "offline": false,
+        "auth": false,
+        "db": true,
+        "realtime": true
+    }
+}

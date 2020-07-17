@@ -44,11 +44,11 @@ export default {
     selectedApps () {
       let appSet = []
       if (this.selectedTags.length === 0) {
-        appSet = this.$apps.apps
+        appSet = this.$apps
         appSet.sort(this.sortApps)
         return appSet
       }
-      this.$apps.apps.forEach((app) => {
+      this.$apps.forEach((app) => {
         let isSelected = true
         this.selectedTags.forEach((tag) => {
           if (!app.tags.includes(tag)) {
@@ -67,7 +67,7 @@ export default {
         return []
       }
       const tagSet = []
-      this.$apps.apps.forEach((app) => {
+      this.$apps.forEach((app) => {
         app.tags.forEach((tag) => {
           if (!tagSet.includes(tag)) {
             tagSet.push(tag)

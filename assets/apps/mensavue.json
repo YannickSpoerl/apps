@@ -1,0 +1,37 @@
+{
+    "name": "MensaVue",
+    "published": "13.2.2020",
+    "tags": [
+        "JavaScript",
+        "Vue",
+        "Vuetify",
+        "Vuex"
+    ],
+    "description": {
+        "de": "Vergleiche detaillierte Essenspläne der Universitätsmensen 🍲",
+        "en": "Browse university canteens and their meals for the current days 🍲"
+    },
+    "languages": [
+        "en"
+    ],
+    "urls": {
+        "de": {
+            "code": "https://github.com/YannickSpoerl/mensavue",
+            "demo": "https://mensa.yannickspoerl.de/",
+            "blog": "https://blog.yannickspoerl.de/2020/02/13/mensavue/"
+        },
+        "en": {
+            "code": "https://github.com/YannickSpoerl/mensavue",
+            "demo": "https://mensa.yannickspoerl.de/",
+            "blog": "https://blog.yannickspoerl.de/en/2020/02/13/mensavue/"
+        }
+    },
+    "features": {
+        "desktop": true,
+        "mobile": false,
+        "offline": false,
+        "auth": false,
+        "db": false,
+        "realtime": false
+    }
+}

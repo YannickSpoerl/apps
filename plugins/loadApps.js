@@ -1,7 +1,7 @@
 import Vue from 'vue'
-import config from '@/assets/apps.json'
+import apps from '@/assets/apps'
 
 /**
  * populate vue instance with metadata
  */
-Vue.prototype.$apps = config
+Vue.prototype.$apps = apps
