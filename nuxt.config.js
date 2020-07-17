@@ -4,7 +4,7 @@ export default {
   mode: 'universal',
   target: 'static',
   head: {
-    title: 'Yannick Spoerl - Apps',
+    title: 'Apps - Yannick Spoerl',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
