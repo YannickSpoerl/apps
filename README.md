@@ -4,7 +4,7 @@
     <img src="https://github.com/YannickSpoerl/apps/blob/master/static/logo.png" alt="Logo" width="105" height="80">
   </a>
 
-  <h3 align="center"><a href="https://apps.yannickspoerl.de">Apps</a></h3>
+  <h3 align="center"><a href="https://apps.yannickspoerl.de">app.yannickspoerl.de</a></h3>
   <p align="center">
   <img src="https://img.shields.io/github/license/yannickspoerl/apps"/>
   <img src="https://img.shields.io/github/package-json/v/yannickspoerl/apps/development"/>
