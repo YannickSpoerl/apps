@@ -1,0 +1,35 @@
+{
+    "name": "Apps",
+    "published": "17.7.2020",
+    "tags": [
+        "JavaScript",
+        "Vue",
+        "Nuxt"
+    ],
+    "description": {
+        "de": "Dashboard für meine Wep-Apps 🕹️",
+        "en": "Dashboard for my wep-apps 🕹️"
+    },
+    "languages": [
+        "de",
+        "en"
+    ],
+    "urls": {
+        "de": {
+            "code": "https://github.com/YannickSpoerl/apps",
+            "blog": "https://blog.yannickspoerl.de/2020/07/17/apps/"
+        },
+        "en": {
+            "code": "https://github.com/YannickSpoerl/apps",
+            "blog": "https://blog.yannickspoerl.de/en/2020/07/17/apps/"
+        }
+    },
+    "features": {
+        "desktop": true,
+        "mobile": true,
+        "offline": false,
+        "auth": false,
+        "db": false,
+        "realtime": false
+    }
+}
