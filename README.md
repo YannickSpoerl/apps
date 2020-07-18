@@ -7,7 +7,7 @@
   <h3 align="center"><a href="https://apps.yannickspoerl.de">app.yannickspoerl.de</a></h3>
   <p align="center">
   <img src="https://img.shields.io/github/license/yannickspoerl/apps"/>
-  <img src="https://img.shields.io/github/package-json/v/yannickspoerl/apps/development"/>
+  <img src="https://img.shields.io/github/package-json/v/yannickspoerl/apps"/>
   <img src="https://img.shields.io/github/workflow/status/YannickSpoerl/apps/Build%20and%20Deploy"/>
   </p>
   
