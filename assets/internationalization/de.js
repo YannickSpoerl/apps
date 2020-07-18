@@ -17,7 +17,8 @@ export default {
   },
   navbar: {
     blog: 'Blog',
-    home: 'Home'
+    home: 'Home',
+    about: 'About'
   },
   copyright: {
     license: 'MIT Lizenz',
@@ -41,5 +42,16 @@ export default {
       db: 'Keine Datenbank',
       realtime: 'Keine Echtzeit-Daten'
     }
+  },
+  about: {
+    title: 'Was ist das hier? 🤔',
+    text: 'Als Web-Entwickler baue ich hin und wieder Web-Apps... und hier ist das zentrale Dashboard, auf dem du einige dieser Apps findest.' +
+    ' Hier kannst du die Apps nach Technologien filtern, einen kleinen Überblick über die jeweilige App bekommen und zur Live-Version der App navigieren, ' +
+    'sowie den zugehörigen Blog-Eintrag und den Link zum Github-Repository finden!',
+    link: 'Lies mehr dazu in meinem Blog:',
+    title2: 'Und wer bist du? 🧑',
+    text2: 'Ich bin Yannick, ein Informatik-Student aus Deutschland 🎓. In meiner Freizeit, sowie beruflich, beschäftige ich mich mit Web-Entwicklung ' +
+    'und dieses Dashboard ist eines meiner kleinen Projekte!',
+    link2: 'Lerne mich auf meiner Website besser kennen:'
   }
 }

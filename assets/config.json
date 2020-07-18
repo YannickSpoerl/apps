@@ -8,6 +8,10 @@
       {
         "text": "blog",
         "link": "https://blog.yannickspoerl.de"
+      },
+      {
+        "text": "about",
+        "link": "/about"
       }
     ],
     "contact": [
