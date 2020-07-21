@@ -45,13 +45,13 @@ export default {
   },
   about: {
     title: 'What is this? 🤔',
-    text: 'Als Web-Entwickler baue ich hin und wieder Web-Apps... und hier ist das zentrale Dashboard, auf dem du einige dieser Apps findest.' +
-    ' Hier kannst du die Apps nach Technologien filtern, einen kleinen Überblick über die jeweilige App bekommen und zur Live-Version der App navigieren, ' +
-    'sowie den zugehörigen Blog-Eintrag und den Link zum Github-Repository finden!',
+    text: 'As a web-developer I occasionally build web-apps... and this is the central dashboard, where you can find some of those apps.' +
+    ' Here you can filter those apps by used technology, get a quick overview over an app and navigate to the live-instance as well as the' +
+    ' corresponding blog-entry and the Github-repository!',
     link: 'Read more about this in my blog:',
     title2: 'And who are you? 🧑',
-    text2: 'Ich bin Yannick, ein Informatik-Student aus Deutschland 🎓. In meiner Freizeit, sowie beruflich, beschäftige ich mich mit Web-Entwicklung ' +
-    'und dieses Dashboard ist eines meiner kleinen Projekte!',
+    text2: 'I am Yannick, a computer-science student from Germany 🎓. During my free time as well as in my job I do web-development ' +
+    'and this dashboard is one of my small projects!',
     link2: 'Find out more about me at my website:'
   }
 }
